@@ -2,3 +2,10 @@
     font-size: 22px;
     color: cadetblue;
 }
+
+.h1 {
+    font-size: medium;
+    color: aquamarine;
+    margin: auto;
+    position: relative;
+}
